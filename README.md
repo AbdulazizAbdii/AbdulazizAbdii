@@ -1,7 +1,7 @@
 #  Abdulaziz Mohamed 
 
 ### About Me
-Analytics Engineer & Data Analyst based in  Riyadh, Saudi Arabia. I build ETL pipelines, Transform and model data, and deliver dashboards that turn raw data into business decisions.
+Hey, I'm Abdulaziz 👋 — I'm an Analytics Engineer based in Riyadh, Saudi Arabia. I design data models, build ETL/ELT pipelines, and turn raw data into clean, reliable datasets that power dashboards and analytics.
 
 ---
 
