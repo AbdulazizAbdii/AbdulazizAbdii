@@ -1,7 +1,7 @@
 # Hi, I'm Abdulaziz Mohamed Abdi 👋
 
 ### About Me
-Analytics Engineer & Data Analyst from Riyadh, Saudi Arabia. I build ETL pipelines, model data, and deliver dashboards that turn raw data into business decisions.
+Analytics Engineer & Data Analyst based in  Riyadh, Saudi Arabia. I build ETL pipelines, Transform and model data, and deliver dashboards that turn raw data into business decisions.
 
 ---
 
@@ -9,8 +9,9 @@ Analytics Engineer & Data Analyst from Riyadh, Saudi Arabia. I build ETL pipelin
 [![My Skills](https://skillicons.dev/icons?i=mysql,python)](https://skillicons.dev)
 
 
-### 📊 BI & Visualization
-📈 Power BI · 📊 Tableau · 📑 Excel
+### 📊 BI & Analytics
+📈 Power BI · 📑 Excel • Data Modeling • Star Schema • Data Profiling • Data Quality
+
 
 
 
@@ -22,7 +23,7 @@ Analytics Engineer & Data Analyst from Riyadh, Saudi Arabia. I build ETL pipelin
 🔥 Apache Spark · 🌬️ Apache Airflow · 📨 Apache Kafka
 
 ### 🛠️ Tools
-🔧 Git · 🐧 Linux
+🔧 Git 
 
 ---
 
