@@ -1,4 +1,4 @@
-# Hi, I'm Abdulaziz Mohamed Abdi 👋
+#  Abdulaziz Mohamed 
 
 ### About Me
 Analytics Engineer & Data Analyst based in  Riyadh, Saudi Arabia. I build ETL pipelines, Transform and model data, and deliver dashboards that turn raw data into business decisions.
