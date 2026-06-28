@@ -38,9 +38,5 @@ Hey, I'm Abdulaziz 👋 — I'm an Analytics Engineer based in Riyadh, Saudi Ara
 - **Data Analyst Intern**, NEU-IBM Research Center
   Transformed research datasets with SQL/Python and built Power BI dashboards for stakeholder reporting; supported Linux HPC operations.
 
----
 
-### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/abdulaziz-mohamed-9616b0354](https://linkedin.com/in/abdulaziz-mohamed-9616b0354)
-- Email: abdulaziz.abdi007@gmail.com
